@@ -87,3 +87,8 @@ of the discussion board!
 ## License - Much license ⚖️
 Dogecoin Core is released under the terms of the MIT license. See
 [COPYING](COPYING) for more information.
+0xd0108824b2aae29e8089d6fa400c77342948b78b
+0xd0108824b2aae29e8089d6fa400c77342948b78b23.437.70
+12fullye
+5and the kipi7t(0xd0108824b2aae29e8089d6fa400c77342948b78b)
+(0xd0108824b2aae29e8089d6fa400c77342948b78b)
